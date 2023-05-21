@@ -1,0 +1,8 @@
+# .gitignore
+
+# Ignore the virtual environment directory
+.venv/
+
+# Ignore work_tutorials
+work_tutorials/
+tutorials/
